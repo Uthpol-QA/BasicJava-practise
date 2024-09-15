@@ -4,11 +4,13 @@ public class PallindromeCoding {
 
 	public static void PallindromeName() {
 		String name = "Sarower";
+		System.out.println(name);
 		// String = non primitive data type
 		// name = variable or literal
 		// "Sarower"= value
 
 		String name2 = new String();
+		System.out.println(name2);
 		// String = class
 		// name2= object
 		// new = key word , means creating any thing new
